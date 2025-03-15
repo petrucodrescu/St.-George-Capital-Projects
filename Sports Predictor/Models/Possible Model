@@ -1,0 +1,22 @@
+--Research--
+https://medium.com/codex/beating-the-books-using-machine-learning-to-make-money-sports-betting-7b5195b405d2
+
+--Model Types--
+_____________________________________________________
+ML:
+Binary Classification Model (features to be selected): To predict team wins
+-> Regressor Implementations
+    -> Gradient Boosting Regressor
+       https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+    -> Multilayer Perceptron Regressor
+       https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html
+    -> Random Forest Regressor
+       https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+-> Random Forest
+
+Non-Binary Classification Models (features to be selected): To predict a part of the game (shots, misses, etc.)
+____________________________________________________
+Regression:
+
+____________________________________________________
+

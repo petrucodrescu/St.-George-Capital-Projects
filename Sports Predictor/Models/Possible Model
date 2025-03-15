@@ -13,10 +13,13 @@ Binary Classification Model (features to be selected): To predict team wins
     -> Random Forest Regressor
        https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
 -> Random Forest
+others...
 
 Non-Binary Classification Models (features to be selected): To predict a part of the game (shots, misses, etc.)
+others...
 ____________________________________________________
 Regression:
-
+others...
 ____________________________________________________
 
+others...
